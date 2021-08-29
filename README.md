@@ -2,4 +2,4 @@
 learning git
 
 I love coding and graphics
-hey buddy
+hey Buddy
